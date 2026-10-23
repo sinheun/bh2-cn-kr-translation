@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "translation_url": "https://raw.githubusercontent.com/sinheun/bh2-cn-kr-translation/main/translation.js",
+  "translation_version": "cn-master-20261022-346869",
+  "sha256": "1e5f40f6921486ef1a4eec3718736284bb5a8c47e7f8df2dbde52857f3c9f948",
+  "compatibility": {
+    "status": "REVIEW_REQUIRED",
+    "translation_format": "json-object-v1",
+    "targets": [],
+    "patch_payload_ids": []
+  }
+}
