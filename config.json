@@ -1,8 +1,8 @@
 {
     "schema_version": 1,
     "translation_url": "https://raw.githubusercontent.com/sinheun/bh2-cn-kr-translation/main/translation.js",
-    "translation_version": "cn-master-20261027-346869",
-    "sha256": "bf9688df578c3d21a7506b58375faf2764b871e766dd31f06ad1c8ea6ab04527",
+    "translation_version": "cn-master-20261031-349751",
+    "sha256": "2fb6f7fba09f86397f1c7a08723b01d20c86ad803357cbbe2ceb8b3d4fb183c7",
     "compatibility": {
         "status": "VERIFIED",
         "translation_format": "json-object-v1",
